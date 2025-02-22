@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trandung121-it
+- 👋 Hi, I’m Tien Dung Tran
 - 👀 I’m interested in developing a mobile app 
 - 🌱 I’m currently learning about Flutter
 - 📫 How to reach me for working: gnud1211@gmail.com
