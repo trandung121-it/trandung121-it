@@ -2,13 +2,6 @@
 
 🚀 **Mobile App Developer | Flutter**  
 
----
-
-### 🔥 About Me  
-- 💻 I’m interested in **developing mobile applications**  
-- 🌱 Currently learning **Flutter, React, and Golang**  
-- 📫 How to reach me: **gnud1211@gmail.com**  
-- ⚡ Fun fact: *I may not be the best, but I'm always open to learning & feedback!* 💡  
 
 ---
 
