@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tien Dung Tran  
 
-🚀 **Mobile App Developer | Flutter Enthusiast | FinTech Student**  
+🚀 **Mobile App Developer | Flutter**  
 
 ---
 
