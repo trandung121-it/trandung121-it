@@ -14,7 +14,7 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trandung121-it&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trandung121-it&layout=compact&theme=radical" alt="Top Langs" height="180"/>
 </p>
 
