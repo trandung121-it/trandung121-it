@@ -15,11 +15,6 @@
 </p>
 
 ---
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
-  <img alt="snake eating my contributions" src="./assets/snake.svg" />
-</picture>
 
 ### 🛠️ Tech Stack  
 
